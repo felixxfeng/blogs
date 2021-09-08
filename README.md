@@ -1,11 +1,11 @@
-# Felix's Pages
+# Felix's Pages :pencil:
 
 This page is used to archived the materials about coding skill. 
 
 Currently this contains the following documents:
 - [Code quality](code-quality.md)
 
-Last update: 2021/09/08
+Last update: 2021/09/08 :date: 
 
 ## Markdown
 
