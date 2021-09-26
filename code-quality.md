@@ -25,5 +25,3 @@ You can find detail gudience (https://google.github.io/eng-practices/). We summa
 - One PR one task
 - Examples:
   - [Good CL Descriptions](https://google.github.io/eng-practices/review/developer/cl-descriptions.html#:~:text=enough%20useful%20information.-,Good%20CL%20Descriptions,-Here%20are%20some)
-  - https://msazure.visualstudio.com/One/_git/CCG-CS-API-OCR/pullrequest/244152?_a=overview
-  - https://msazure.visualstudio.com/One/_git/CCG-CS-API-OCR/pullrequest/285978?_a=overview
