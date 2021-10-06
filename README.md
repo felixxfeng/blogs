@@ -1,4 +1,4 @@
-# Xuan's Pages :pencil:
+## Archive
 
 This page is used to archived the materials about coding skill. 
 
@@ -8,7 +8,8 @@ Currently this contains the following documents:
 
 Last update: 2021/09/08 :date: 
 
-### Markdown
+
+## Markdown Syntax
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
