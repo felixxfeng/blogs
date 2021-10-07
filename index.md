@@ -39,6 +39,3 @@ Last update: 2021/10/07
 
 &emsp;
 
-&emsp;
-
-&emsp;
