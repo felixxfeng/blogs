@@ -6,7 +6,7 @@ Currently this contains the following documents:
 - [Code quality](code-quality.md)
 - [Github flow](github-flow.md)
 
-Last update: 2021/09/08 :date: 
+Last update: 2021/09/08 
 
 
 #### Markdown Syntax
