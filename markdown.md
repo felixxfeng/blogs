@@ -23,14 +23,6 @@ Syntax highlighted code block
 
 [Link](url) and ![Image](src)
 
-```javascript
-function fancyAlert(arg) {
-  if(arg) {
-    $.facebox({div:'#foo'})
-  }
-}
-```
-
 - [x] this is a complete item
 - [ ] this is an incomplete item
 
