@@ -27,3 +27,4 @@ fossil pull URL
 fossil sync URL
 fossil update VERSION
 ```
+See more details at Fossil [Quick Start](https://fossil-scm.org/home/doc/trunk/www/quickstart.wiki).
