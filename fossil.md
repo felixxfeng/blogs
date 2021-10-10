@@ -14,7 +14,7 @@ fossil ui
 
 #### Branch and Merge
 ```markdown
-fossil commit –branch "brach-name"
+fossil commit -branch "brach-name"
 fossil update trunk
 fossil merge featureX
 fossil commit
