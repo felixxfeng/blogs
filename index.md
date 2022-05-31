@@ -1,5 +1,8 @@
 [**<font color= gray> about </font>**](https://xuafeng.github.io/cv/)  &nbsp; &nbsp; &nbsp;&nbsp; [**<font color= gray> cv </font>**](https://xuafeng.github.io/CV-EN-2021.pdf) &nbsp; &nbsp; &nbsp;&nbsp;[**<font color= gray> publications </font>**](https://xuafeng.github.io/cv/#:~:text=Selected%20Publications)
 
+
+## Inreresting posts
+- [Work, play, and motivation](https://thesephist.com/posts/play/)
 ## Archive
 
 This page is used to archived the materials about coding skill. 
