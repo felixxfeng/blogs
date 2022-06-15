@@ -3,6 +3,7 @@
 
 ## Inreresting posts
 - [Work, play, and motivation](https://thesephist.com/posts/play/)
+
 ## Archive
 
 This page is used to archived the materials about coding skill. 
