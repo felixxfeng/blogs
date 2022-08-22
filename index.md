@@ -1,10 +1,12 @@
+
+
+
+- Inreresting posts
+  - [Work, play, and motivation](https://thesephist.com/posts/play/)
+
 [**<font color= gray> about </font>**](https://xuafeng.github.io/cv/)  &nbsp; &nbsp; &nbsp;&nbsp; [**<font color= gray> cv </font>**](https://xuafeng.github.io/CV-EN-2021.pdf) &nbsp; &nbsp; &nbsp;&nbsp;[**<font color= gray> publications </font>**](https://xuafeng.github.io/cv/#:~:text=Selected%20Publications)
 
-
-## Inreresting posts
-- [Work, play, and motivation](https://thesephist.com/posts/play/)
-
-## Archive
+<!-- - Archive
 
 This page is used to archived the materials about coding skill. 
 
@@ -14,29 +16,6 @@ Currently this contains the following documents:
 - [Fossil overview](fossil.md) (2021/10/07)
 - [Markdown Syntax](markdown.md) (2021/10/07)
 
-Last update: 2021/10/07
+Last update: 2021/10/07 -->
 
 
-&emsp;
-
-&emsp;
-
-&emsp;
-
-&emsp;
-
-&emsp;
-
-&emsp;
-
-&emsp;
-
-&emsp;
-
-&emsp;
-
-&emsp;
-
-&emsp;
-
-&emsp;
