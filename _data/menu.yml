@@ -2,13 +2,19 @@
 # https://github.com/riggraz/no-style-please#customize-the-menu
 
 entries:
-  - title: info
+
+  - title: ..
     entries:
-      - title: This page is used to archived the materials about coding skill, intersting posts and my thoughts.
-      - title: github repo 
+      - title: repo 
         url: https://github.com/xuafeng/blogs
       - title: about
         url: https://xuafeng.github.io/cv/
+      - title: rss
+        url: feed.xml
+  
+  - title: info
+    entries:
+      - title: This page is used to archived the materials about coding skill, intersting posts and my thoughts.
  
   - title: all posts
     post_list:
@@ -24,5 +30,4 @@ entries:
       show_more_text: See more posts...
       show_more_url: example2-archive.html
 
-  - title: rss
-    url: feed.xml
+
