@@ -7,6 +7,8 @@ entries:
       - title: This page is used to archived the materials about coding skill, intersting posts and my thoughts.
       - title: github repo 
         url: https://github.com/xuafeng/blogs
+      - title: about
+        url: https://xuafeng.github.io/cv/
  
   - title: all posts
     post_list:
