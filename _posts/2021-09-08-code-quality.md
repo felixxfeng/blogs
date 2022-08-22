@@ -1,7 +1,5 @@
 ---
 layout: post
-tags:
-  - coding
 title: Code Quality
 id: 37
 date: 2021-09-08 18:34:55 +0800
