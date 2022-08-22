@@ -5,10 +5,10 @@ entries:
 
   - title: 🔙
     entries:
+       - title: about
+        url: https://xuafeng.github.io/cv/
       - title: repo 
         url: https://github.com/xuafeng/blogs
-      - title: about
-        url: https://xuafeng.github.io/cv/
       - title: rss
         url: feed.xml
   
@@ -18,7 +18,7 @@ entries:
  
   - title: all posts
     post_list:
-      limit: 5
+      limit: 8
       show_more: true
       show_more_text: See archive...
       show_more_url: archive.html
