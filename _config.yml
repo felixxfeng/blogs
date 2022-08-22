@@ -1,5 +1,19 @@
 title: Xuan Feng's Log 📚
 description: Archive my thoughts and notes.
-show_downloads: false
-google_analytics:
-theme: jekyll-theme-midnight
+
+author: Riccardo Graziosi 
+description:  my resume.
+remote_theme: riggraz/no-style-please
+
+theme_config:
+  appearance: "auto" 
+  back_home_text: ".." 
+  date_format: "%Y-%m-%d"
+  show_description: false 
+
+sass:
+  style: :compressed
+
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
