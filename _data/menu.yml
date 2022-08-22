@@ -5,7 +5,7 @@ entries:
 
   - title: ..
     entries:
-       - title: about
+      - title: about
         url: https://xuafeng.github.io/cv/
       - title: repo 
         url: https://github.com/xuafeng/blogs
@@ -31,6 +31,6 @@ entries:
 #       show_more_url: example2-archive.html
 
   - title: tags
-    url: /tags.html
+    url: tags.html
 
 
