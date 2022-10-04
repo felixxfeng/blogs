@@ -5,7 +5,8 @@
   - [Work, play, and motivation](https://thesephist.com/posts/play/)
   - [Trailer: The Social Dilemma](https://www.netflix.com/jp/title/81254224)
   - [Please Don’t Just Say Hello In Chat](https://sbmueller.github.io/nohello/)
-
+- tools
+  - https://devhints.io/
 
 
 <!-- [**<font color= gray> about </font>**](https://xuafeng.github.io/cv/)  &nbsp; &nbsp; &nbsp;&nbsp; [**<font color= gray> cv </font>**](https://xuafeng.github.io/CV-EN-2021.pdf) &nbsp; &nbsp; &nbsp;&nbsp;[**<font color= gray> publications </font>**](https://xuafeng.github.io/cv/#:~:text=Selected%20Publications) -->
