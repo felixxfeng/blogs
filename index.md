@@ -5,6 +5,8 @@
   - [Work, play, and motivation](https://thesephist.com/posts/play/)
   - [Trailer: The Social Dilemma](https://www.netflix.com/jp/title/81254224)
   - [Please Don’t Just Say Hello In Chat](https://sbmueller.github.io/nohello/)
+  - [别让自己“墙”了自己](https://coolshell.cn/articles/20276.html)
+ 
 - tools
   - https://devhints.io/
   - https://qwerty.kaiyi.cool/
